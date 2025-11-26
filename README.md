@@ -2,6 +2,11 @@
 
 Bot for interactively configuring and sending embeds via Discord slash commands and a modal form.
 
+**DISCLAIMER:** This is almost entirely AI coded and is **not** supported. This is purely a "for fun" project and shoud not be used productively. Once the bot sends an embed, the embed remains even if the bot is taken offline. While it is online, there is **no** restrictions to who can send embeds. *This may change in the future if it is to be used*
+
+If you actively use this, I'd be glad to hear from you at @calari00 with feedback, suggestions or anything of the sort.
+Not published under a license, modify or use as you wish. <3
+
 ## Setup
 - Install deps: `python -m pip install -r requirements.txt`
 - In the Developer Portal, invite with `applications.commands` (and `bot` if you want guild member presence). Message Content intent is **not** needed.
